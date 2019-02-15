@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Bubbler+One|Merriweather');
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif;
+}
+a:link {
+    text-decoration: none;
+    }
+a:hover {
+    color:royalblue;
+    }
+a {
+    color: violet;
+    font-family: 'Bubbler One', sans-serif;
+    }
