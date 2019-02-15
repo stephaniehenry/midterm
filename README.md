@@ -11,6 +11,6 @@ Create a page that links to your solution for each of the challenges found in [t
 * Add link hover state (2.5pts)
 * 1 Sans-Serif from Google Fonts (2.5pts)
 * 1 Serif from Google Fonts (2.5pts)
-* Submit Live Github Pages link to slack thread - i.e. username.github.io/midterm (5pts)
+* Submit Live Github Pages link via Slack Direct Message to @Tyreil  - i.e. username.github.io/midterm (5pts)
 
 
